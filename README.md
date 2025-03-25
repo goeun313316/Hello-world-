@@ -1,6 +1,6 @@
 # Hello world!
 
-This is *History of Western Music 3* at Hanynang University.
+This is *History of Western Music 3* at Hanyang University.
 
 My name is **Goeun Yoon**, and I am a student of piano major.
 
